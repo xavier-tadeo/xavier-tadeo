@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Tadeo Domènech</h1>
 <h3 align="center">A passionate developer from Barcelona</h3>
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" hight="100" width="200">
+<img align="center" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" hight="100" width="200">
 
 - 🔭 I’m currently working on [List-To-Do](https://github.com/xavier-tadeo/To-do-list)
 
