@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Xavier Tadeo Domènech</h1>
 <h3 align="center">A passionate developer from Barcelona</h3>
-
-<img align="center" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" hight="100" width="200">
-
+<div  align="right">
+<img align="right" border-radius="50%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" hight="100" width="200">
+</div>
 - 🔭 I’m currently working on [List-To-Do](https://github.com/xavier-tadeo/To-do-list)
 
 - 🌱 I’m currently learning **Angular, TypeScript, Vue**
