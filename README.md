@@ -8,8 +8,10 @@
 - 🌱 I’m currently learning **Angular, TypeScript, Vue**
 
 - 💬 Ask me about **Javascript | Typescript | React | Vue | Sass | Jest | Git | Express | MongoDB | SOLID | Testing**
-
-- 📫 How to reach me **https://www.linkedin.com/in/xavier-tadeo/ , domenechtadeo@gmail.com**
+<p align="center">
+<a href="https://linkedin.com/in/xavier tadeo domenech"><img src="https://img.shields.io/badge/-Xavier%20Tadeo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:domenechtadeo@gmail.com"><img src="https://img.shields.io/badge/-domenechtadeo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
