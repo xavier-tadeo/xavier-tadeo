@@ -5,9 +5,9 @@
 <img align="right" border-radius="50%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" hight="100" width="200">
 </div>
 
-🌱 I’m currently learning **Angular, TypeScript, Vue**
-👯 I’m looking to collaborate on Javascript projects
-💬 Ask me about **Javascript | Typescript | React | Vue | Sass | Jest | Git | Express | MongoDB | SOLID | Testing**
+-🌱 I’m currently learning **Angular, TypeScript, Vue**
+-👯 I’m looking to collaborate on Javascript projects
+-💬 Ask me about **Javascript, React, Vue 
 <p align="center">
 <a href="https://www.linkedin.com/in/xavier-tadeo/"><img src="https://img.shields.io/badge/-Xavier%20Tadeo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:domenechtadeo@gmail.com"><img src="https://img.shields.io/badge/-domenechtadeo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
